@@ -1,0 +1,16 @@
+.tel{
+    padding-top: 58px;
+    margin-left: 69px;
+}
+
+.tel p{
+    font: 20px "HelveticaBold";
+    float: left;
+}
+
+.tel .tel-big{
+    font: 27px "HelveticaBold";
+    color: #1f2426;
+    padding-left: 85px;
+    margin-top: -3px;
+}

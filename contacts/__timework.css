@@ -1,0 +1,16 @@
+.timework{
+    padding-top: 48px;
+    margin-left: 111px;
+    width: 300px;
+}
+
+.timework p{
+    font: 15px "HelveticaRegular";
+    color: #1f2426;
+    padding: 11px 37px;
+    background: url(../contacts/img/background.png) no-repeat;
+}
+
+.timework span{
+    font: 15px "HelveticaBold";
+}

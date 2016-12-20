@@ -1,0 +1,40 @@
+.akpp p{
+	background: url(../akpp-mkpp/img/akpp.png) no-repeat;
+	background-blend-mode: hard-light;
+	height: 177px;
+	width: 480px;
+	margin-top: 52px;
+	float: right;
+	font: 27px "HelveticaBold";
+	color: #fff;
+	padding-top: 64px;
+}
+
+.akpp p:hover{
+	background: teal url(../akpp-mkpp/img/akpp-active.png) no-repeat;
+	background-blend-mode: hard-light;
+}
+
+.mkpp p{
+	background: teal url(../akpp-mkpp/img/mkpp.png) no-repeat;
+	
+	height: 177px;
+	width: 480px;
+	margin-top: 52px;
+	font: 27px "HelveticaBold";
+	color: #fff;
+	padding-top: 64px;
+}
+
+.mkpp p:hover{
+	background: teal url(../akpp-mkpp/img/mkpp-active.png) no-repeat;
+	background-blend-mode: hard-light;
+}
+
+.akpp-mkpp span{
+	font: 24px "HelveticaLight";
+}
+
+.akpp, .mkpp{
+	padding:0;
+}

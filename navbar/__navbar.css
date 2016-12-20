@@ -1,0 +1,33 @@
+.my-class-navbar-background{
+    background: url(../navbar/img/navbar.jpg) no-repeat center #1b1f21;
+    border-radius: 0;
+    margin: 0;
+}
+
+.my-class-navbar-brand{
+    font: 30px "Exo2ExtraBoldItalic";
+    padding: 5px 15px;
+    color: #fff !important;
+}
+
+.my-class-navbar-brand:hover{
+    color: #1d8bc2 !important;
+}
+
+.my-class-navbar-brand span{
+    font: 30px "Exo2Italic";
+    text-transform: uppercase;
+}
+
+.my-class-navbar-right a{
+    font: 13px "HelveticaMedium";
+    color: #fff !important;
+}
+
+.my-class-navbar-right a:hover{
+    color: #1d8bc2 !important;
+}
+
+.my-class-navbar-right .active{
+    color: #1d8bc2 !important;
+}

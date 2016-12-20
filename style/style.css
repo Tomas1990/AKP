@@ -1,0 +1,12 @@
+@import "../fonts/fonts.css";
+@import "../navbar/__navbar.css";
+@import "../contacts/__adress.css";
+@import "../contacts/__timework.css";
+@import "../contacts/__tel.css";
+@import "../kpp/__kpp.css";
+@import "../akpp-mkpp/__akpp-mkpp.css";
+@import "../menu/__pages.css";
+@import "../menu/__text-1.css";
+@import "../menu/__guarantee.css";
+@import "../menu/__text-2.css";
+@import "../footer/__footer.css";

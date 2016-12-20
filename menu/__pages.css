@@ -1,0 +1,41 @@
+.pages{
+	border: 4px solid #1d8bc2;
+	width: 303px;
+    height: 233px;
+	margin-left: 75px;
+	margin-top: 49px;
+	font: 13px/13px "HelveticaMedium";
+	text-transform: uppercase;
+}
+
+.pages a:hover{
+	text-decoration: none;
+}
+
+.page-1{
+	margin-top: 44px;
+	padding-left: 45px;
+	float: left;
+	color: #1f2426;
+}
+
+.page-2{
+	margin-top: 30px;
+	padding-left: 45px;
+	float: left;
+	color: #1f2426;
+}
+
+.page-3{
+	margin-top: 30px;
+	padding-left: 45px;
+	float: left;
+	color: #1f2426;
+}
+
+.page-4{
+	margin-top: 30px;
+	padding-left: 45px;
+	float: left;
+	color: #1f2426;
+}

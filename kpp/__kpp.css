@@ -1,0 +1,17 @@
+.kpp{
+	margin-top: 48px;
+    padding-top: 94px;
+    background: url("../kpp/img/kpp.jpg") no-repeat top center;
+    height: 340px;
+    
+}
+
+.kpp p{
+    
+    color: #1f2426;
+    font: 48px "HelveticaBold";
+}
+
+.kpp p span{
+    font: 27px "HelveticaLight";
+}

@@ -1,0 +1,15 @@
+.text-1{
+	margin-top: 49px;
+	margin-left: 49px;
+}
+
+.text-1 h4{
+	font: 27px/20px "HelveticaBold";
+	color: #1f2426;
+}
+
+.text-1 p{
+	font: 15px/20px "HelveticaRegular";
+	color: #1f2426;
+	margin-top: 29px;
+}

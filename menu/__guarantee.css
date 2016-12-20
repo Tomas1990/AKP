@@ -1,0 +1,18 @@
+.guarantee{
+	margin-left: 49px;
+	margin-top: 30px;
+	width: 610px;
+}
+
+.guarantee img{
+	float: left;
+}
+
+.guarantee-text{
+	font: 24px/20px "HelveticaLight";
+	color: #1f2426;
+	border-top: 2px solid #ced6d9;
+	border-right: 2px solid #ced6d9;
+	border-bottom: 2px solid #ced6d9;
+	padding: 22px 0 8px 76px;
+}

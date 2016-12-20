@@ -1,0 +1,19 @@
+.adress{
+    padding-top: 54px;
+    margin-left: 90px;
+    width: 360px;
+}
+
+.adress a{
+    float: left;
+}
+
+.adress p{
+    font: 15px "HelveticaRegular";
+    color: #1f2426;
+    padding: 5px 0 0 47px;
+}
+
+.pad-0{
+	padding: 0;
+}
